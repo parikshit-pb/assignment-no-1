@@ -1,0 +1,87 @@
+ 
+.open-sens-mormal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+}
+.hero{
+    
+    background-image: url(../images/assets/Hero-bg.png);
+    text-align: center;
+
+.hero-photo{
+    margin: 24px auto 32px auto;
+}  
+    
+}
+.hero-title{
+    font-size:48px ;
+    font-weight: 800;
+    line-height: 68px;
+    color: #0D1321;
+
+}
+.hero-description{
+    font-size: 16px;
+    font-weight: 400;
+}
+.hero-btn{
+    width: 244px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 24px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    background-color: #0D1321;
+    margin: 32px 0px 45px 0px;
+}
+.title{
+    display: flex;
+}
+.dev-items{
+    display: flex;
+    gap: 98px;
+    padding: 48px;
+    text-align: center;
+    justify-content: center;
+}
+.development{
+    text-align: center;
+    margin-top: 154px;
+    /* margin: 74px 152px 90px 148px; */
+    margin: 0px 150px;
+    padding: 80px 97px;
+}
+.development-title{
+    margin: 80px 0px 24px 0px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #0D1321;
+}
+.development-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0D1321;
+}
+.dev-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0D1321;
+    line-height: 36px;
+}
+.dev-description{
+    font-size: 16px;
+    font-weight: 400;
+}
+.dev-btn{
+    font-size: 20px;
+    font-weight: 300;
+    padding: 12px 20px ;
+    color: #0D1321;
+    opacity: 100%;
+    
+}
+.dev-items{
+    padding: 48px;
+}
